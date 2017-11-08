@@ -8,7 +8,7 @@ Member | Projects | Stack overflow Questions
 @alon121 | Content | question
 @danilivshiz | Content | question
 @zvimoe | Content| question
-@ElenaKru | Content | question
+@ElenaKru | [project-3-john-bryce](https://github.com/ElenaKru/project-3-john-bryce) <br> [end-to-end-movies-project](https://github.com/ElenaKru/end-to-end-movies-project) <br> [angularjs-services](https://github.com/ElenaKru/angularjs-services) | question
 @chani99 | Content | question
 @judith435 | Content | question
 @faigysnow | Content| question
